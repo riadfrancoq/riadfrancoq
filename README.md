@@ -10,11 +10,10 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sergio-alejandro-r-0b3311278#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sergio-alejandro-r-0b3311278#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ricardo-franco-607b46208/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ricardo-franco-607b46208/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sergio140705?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sergio140705?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
@@ -45,18 +44,18 @@
 ### 📕 Latest Repositories
 
 <!-- BLOG-POST-LIST:START -->
-- [Proyect](https://github.com/Sergio-Prada-963/Proyecto_N.P..git)
-- [Vuelta España](https://github.com/Sergio-Prada-963/Vuelta-Espana.git)
-- [Facturartemis](https://github.com/Sergio-Prada-963/facturartemis.git)
+- [Proyect](https://github.com/campusricardo/riadBroker.git)
+- [React](https://github.com/campusricardo/ReactCourse.git)
+- [ChessMaker](https://github.com/campusricardo/cheeseMakerBackend.git)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more repositories...](https://github.com/Sergio-Prada-963?tab=repositories)
+➡️ [more repositories...](https://github.com/campusricardo?tab=repositories)
 
 ---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergio-prada-963" alt="sergio-prada-963" /></a> </p>
 <!--END_SECTION:activity-->
