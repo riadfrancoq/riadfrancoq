@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riadfrancoq" alt="riadfrancoq" /></a> </p>
 
-- 🔭 I’m currently working on [standart-recycling-company](https://github.com/riadfrancoq/standard-recycling-company)
+- 🔭 I’m currently working on [next.js](https://github.com/riadfrancoq/nextjs-course)
 
 - 🌱 I’m currently learning **Next.js, Bun and Rust**
 
